@@ -2,6 +2,7 @@
 
 int main()
 {
+    //reverse arry...........
     int n;
     scanf("%d", &n);
     int arr[n];
